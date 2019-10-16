@@ -1,0 +1,64 @@
+Empty the recycle bin,disk
+change your ram,ram
+replace battery,battery
+replace charger,battery
+replace fan,temperature
+temperature,replace coolant
+ram,upgrade your ram
+disk,Delete temperory files
+Remove Unwanted Programs,disk
+temperature,buy cooler
+disk,Delete recorded TV programs
+remove cookies,ram
+replace charger,replace battery
+replace battery,battery,replace charger
+change your ram,ram,upgrade your ram
+replace fan,temperature,replace coolant
+Empty the recycle bin,Delete temperory files
+Empty the recycle bin,disk,Delete temperory files
+Empty the recycle bin,Remove Unwanted Programs,disk
+replace charger,battery,buy new laptop
+replace battery,battery,buy new laptop
+change your ram,ram,buy new laptop
+reinstall os,replace battery,battery
+reinstall os,battery,replace charger
+replace fan,temperature,buy cooler
+temperature,buy cooler,replace coolant
+ram,buy new laptop,upgrade your ram
+reinstall os,battery,buy new laptop
+Empty the recycle bin,disk,Delete recorded TV programs
+Remove Unwanted Programs,disk,Delete temperory files
+replace fan,temperature,buy new laptop
+ram,empty cache
+temperature,empty disk
+change your ram,remove cookies,ram
+Defragment the hard drive,disk
+temperature,buy new laptop,replace coolant
+Delete temperory files,disk,Delete recorded TV programs
+remove cookies,ram,upgrade your ram
+Remove Unwanted Programs,disk,Delete recorded TV programs
+Adjust system Restore Settings,disk
+temperature,buy cooler,buy new laptop
+remove cookies,ram,buy new laptop
+replace fan,reinstall os,temperature
+change your ram,reinstall os,ram
+Empty the recycle bin,Defragment the hard drive,disk
+change your ram,ram,empty cache
+replace fan,empty disk,temperature
+disk,Reinstall Windows
+reinstall os,ram,upgrade your ram
+reinstall os,temperature,replace coolant
+temperature,empty disk,replace coolant
+Defragment the hard drive,disk,Delete temperory files
+ram,empty cache,upgrade your ram
+Remove Unwanted Programs,Defragment the hard drive,disk
+Adjust system Restore Settings,Empty the recycle bin,disk
+temperature,empty disk,buy cooler
+reinstall os,temperature,buy cooler
+empty cache,ram,buy new laptop
+remove cookies,ram,empty cache
+reinstall os,ram,remove cookies
+Adjust system Restore Settings,Remove Unwanted Programs,disk
+Adjust system Restore Settings,disk,Delete temperory files
+Empty the recycle bin,disk,Reinstall Windows
+temperature,empty disk,buy new laptop
